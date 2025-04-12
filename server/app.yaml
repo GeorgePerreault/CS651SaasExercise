@@ -4,7 +4,7 @@ env: standard
 
 env_variables:
   GOOGLE_APPLICATION_CREDENTIALS: project2-454000-76d0db1374a0.json
-  GEMINI_API_KEY: AIzaSyADAYKKVgacV1ZKS859JP0QWmIVnwDDnLQ
+  GEMINI_API_KEY: None
   PORT: 8080
 
 handlers:
